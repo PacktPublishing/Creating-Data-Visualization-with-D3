@@ -1,0 +1,10 @@
+.backgroundArc {
+    fill: #ddd;
+}
+
+.chart {
+    margin: 10px;
+    border-radius: 5px;
+    border: solid #555555 thin;
+    background-color: #eee;
+}
