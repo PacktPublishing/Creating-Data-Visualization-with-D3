@@ -25,7 +25,7 @@ This course is great for you if you are a JavaScript developer and want to start
 ### Technical Requirements
 This course has the following software requirements:<br/>
 <UL>
-<LI>Node.js <br/>
+<LI>[Node.js](https://nodejs.org/en/download/) <br/>
 <LI>Editor to append the examples</LI></UL><br/>
 
 
